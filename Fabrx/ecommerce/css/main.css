@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url(reset.css);
+
+.header {
+width: 1440px;
+height: 672px;
+background-color: #FFC9BA;
+padding-top: 24px;
+margin: 0 auto;
+}
+
+
+.logo {
+width: 92px;
+height: 32px;
+padding-left: 165px;
+display: inline;
+
+& .search {
+  font-family: "Open Sans", sans-serif;
+  width: 327px;
+  height: 48px;
+  margin: 0 auto;
+  display: inline; 
+  margin-left: 315px;
+  margin-right: 219px;
+
+& img {
+  width: 20px;
+  height: 20px;
+  display: inline;
+  margin-left: 848px;
+    }
+ }  
+
+.logo_top_right {
+  display: inline;
+  width: 160px;
+  height: 32px;
+  margin-left: 232px;
+  letter-spacing: 32px;
+ }
+}
+
+.yellow_sofa {
+
+  padding-left: 500px;
+  padding-top: 300px;
+  display: inline;
+
+  & img {
+    width: 727px;
+    height: 312px;
+    display: inline;
+    padding-top: 224px;
+    padding-left: 24px;
+    padding-right: 24px;
+    position: relative;
+
+  }
+}
+
+.sofa{
+width: 373px;
+height: 232px;
+display: inline;
+position: absolute;
+top: 183px;
+left: 165px;
+
+
+  & .koda {
+  width: 373px;
+  height: 232px;
+  padding-bottom: 257px;
+  padding-left: 165px;
+
+
+  }
+
+  & h3 {
+    font-family: "Montserrat", system-ui;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: left;
+  }
+
+  & p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+
+  }
+
+  & h4 {
+    font-family: "Montserrat", system-ui;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #212121;
+    display: inline;
+
+  }
+
+  & ibutton {
+    width: 12.92px;
+    height: 7.92px;
+    padding-left: 180px;
+    display: inline;
+  } 
+}
+
+.text {
+  width: 1110px;
+  height: 79px;
+  margin: 0 auto;
+  margin-top: 56px;
+  
+  & .text_{
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+    }
+  
+  & .companies{
+  width: 1109.97px;
+  height: 31px;
+  letter-spacing: 89px;
+  padding-top: 24px;
+  padding-bottom: 56px;
+    }
+  }
+
+  .greensofa {
+    width: 637px;
+    height: 734px;
+    border-radius: 6px;
+    
+
+    & img  {
+      width: 637px;
+      height: 594px;
+      padding-left: 165px;
+      padding-top: 64px;
+    }
+
+    & p {
+      font-family: "Montserrat", system-ui;
+      width: 201px;
+      font-size: 20px;
+      font-weight: 600;
+      line-height: 30px;
+      text-align: left;
+      margin-left: 250px;
+      margin-right: 40px;
+
+    }
+  }
+
+  .lamp {
+
+      width: 450px;
+      height: 594px;
+      margin-left: 24px;
+      margin-top: 120px;
+      border: none;
+      background-color: #FAFAFB;
+
+    & p {
+      width: 201px;
+      font-family: "Montserrat", system-ui;
+      font-size: 20px;
+      font-weight: 600;
+      line-height: 30px;
+      text-align: left;
+      margin-left: 40px;
+      margin-right: 40px;
+
+    }
+  }
+
+
+
+
+
+
+

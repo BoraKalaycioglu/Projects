@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url(reset.css);
+
+.container {
+width: 1440px;
+height: 1024px;
+margin: 0 auto;
+
+  & .burger {
+    width: 1440px;
+    height: 1024px;
+    border: 1px solid black;
+    background: linear-gradient(225deg, #A54343 0%, #E73535 100%);
+
+  & .info {
+    width: 517px;
+    height: 598px;
+    margin-top: 223px;
+    margin-left: 165px;
+    margin-right: 758px;
+
+    h1 {
+      font-family: "Montserrat", system-ui;
+      font-size: 140px;
+      font-weight: 700;
+      line-height: 127px;
+      letter-spacing: -1.5750000476837158px;
+      text-align: left;
+      color: #fff;
+    }
+
+    h5 {
+      font-family: "Montserrat", system-ui;
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 34px;
+      text-align: left;
+      color: #fff;
+      padding-top: 35px;
+
+    }
+    }
+  }
+}
+
+button{
+  font-family: "Montserrat", system-ui;
+  width: 294px;
+  height: 98px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: -0.4000000059604645px;
+  text-align: center;
+  border-radius: 50px;
+  margin-left: 165px;
+  background: linear-gradient(225deg, #A54343 0%, #E73535 100%);
+  border: none;
+  color: #fff;
+  display: flex;
+  position: relative;
+
+  & .plus {
+    position: absolute;
+    width: 3px;
+    height: 30.35px;
+    padding: 34.80px;
+    display: inline;
+    
+
+  }
+
+}
+
+
+
